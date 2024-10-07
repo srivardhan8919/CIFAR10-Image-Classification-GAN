@@ -74,5 +74,5 @@ This project is licensed under the **MIT License**. For more details, see the `L
 ## 🔗 **Contact**
 
 For questions or suggestions:
-- GitHub: srivardhan8919
+- GitHub: https://github.com/srivardhan8919
 - Email: srivardhannani8919@gmail.com
